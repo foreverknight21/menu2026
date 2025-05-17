@@ -1,2 +1,2 @@
-# menu2026
-Dijital Menü - Lume
+# Dijital Menü
+Mervelerdeyiz için hazırlanmış dijital menü uygulamasıdır.
